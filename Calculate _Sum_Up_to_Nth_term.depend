@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638001266 source:e:\calculate _sum_up_to_nth_term\main.cpp
+	<iostream>
+	<math.h>
+
